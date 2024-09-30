@@ -7,8 +7,9 @@ Desarrollo de aplicación de consola aplicando los conocimientos de POO utilizan
  1. Declaraciones y Asignaciones
  2. Condicionales
  3. estructuras de control iterativas
+ 4. Conceptos POO 
  4. Implementación de clases
- 5. Utilizando herencia y polimorfismo
+ 5. Utilizando herencia, encapsulamiento y polimorfismo
 
 
 🌱 I’m currently learning ... Web development!!
